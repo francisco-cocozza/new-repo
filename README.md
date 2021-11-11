@@ -8,4 +8,4 @@ new proposed change
 
 new change
 
-change that will be replaced soon 
+change that will be replaced soon...
